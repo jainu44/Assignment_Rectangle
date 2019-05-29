@@ -8,7 +8,8 @@ namespace Assignment_Rectangle
 {
     class Program
     {
-        static void Main(string[] args)
+
+        public static int ValidateMenuSelection()
         {
             string userInput = string.Empty;
             bool validMenuSelect = false;
